@@ -1,0 +1,9 @@
+{
+  "width": "30",
+  "height": "30",
+  "startEnergy": "60",
+  "moveEnergy": "1",
+  "plantEnergy": "12",
+  "jungleRatio": "0.30",
+  "animalAmount": "20"
+}

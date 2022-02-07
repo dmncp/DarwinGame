@@ -1,0 +1,8 @@
+Raport wygenerowany po 15 dniach na mapie 1 i po 19 na mapie 2.
+Liczba wszystkich zwierząt jakie pojawiły się w tym czasie na obu mapach: 48
+Liczba wszystkich roślin jakie pojawiły się w tym czasie na obu mapach: 58
+Dominujący genotyp na mapie 1: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7]
+Dominujący genotyp na mapie 2: [0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7]
+Średnia ilość energi żyjących zwierząt: 37.6
+Średnia długość życia martwych zwierząt: 0.0
+Średnia ilość dzieci żyjących zwierząt: 0
